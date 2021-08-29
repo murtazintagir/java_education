@@ -1,4 +1,4 @@
-public class Type_of_data {
+public class Types {
     public static void main(String[] args){
         byte num1 = 100; // 8 бит -128..127
         short num2 = 131; //16 бит -32678..32767
